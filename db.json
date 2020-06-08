@@ -6,7 +6,8 @@
     { "id":"4", "title":"title#4", "body":"body#4", "updated_at":"2020-05-04 09:48:52", "created_at":"2020-05-04 09:47:52" },
     { "id":"5", "title":"title#5", "body":"body#5", "updated_at":"2020-05-05 09:48:52", "created_at":"2020-05-05 09:47:52" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "userId": "gudrms", "nick" : "David"},
+    { "userId": "jy1149", "nick" : "GPark"}
+  ]
 }
